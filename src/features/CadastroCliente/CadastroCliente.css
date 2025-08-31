@@ -1,0 +1,17 @@
+.form-cadastro-cliente {
+  width: 80%;
+  margin: auto;
+}
+
+.linha-formulario {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+
+.linha-formulario > input {
+  border-radius: 7px;
+  width: 500px;
+  height: 20px;
+  padding: 5px;
+}
