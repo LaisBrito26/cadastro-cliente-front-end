@@ -1,9 +1,9 @@
-import CadastroCliente from "../features/CadastroCliente/CadastroCliente";
+import CadastroCliente from "../features/CadastroCliente";
 
 function NovoClientePage() {
   return (
     <section>
-      <h1>Cadastre-se</h1>
+      <title>Cadastro de Clientes</title>
       <CadastroCliente />
     </section>
   );

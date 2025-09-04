@@ -3,7 +3,7 @@ import NovoClientePage from "./pages/NovoClientePage";
 
 function App() {
   return (
-    <section>
+    <section className="fundo">
       <NovoClientePage />
     </section>
   );
