@@ -11,11 +11,11 @@
 .linha-formulario {
   display: flex;
   flex-direction: column;
-  padding: 20px;
+  padding: 15px;
   color: rgb(5, 5, 5);
   text-align: left;
   width: 90%;
-  font-size: 15px;
+  font-size: 13px;
 }
 
 .linha-formulario > input {
@@ -66,7 +66,6 @@
   text-align: center;
   color: black;
   border-radius: 15px;
-
 }
 
 .cabecalho {
@@ -77,7 +76,7 @@
   border-radius: 8px;
 }
 
-.sexo{
+.sexo {
   text-align: left;
   position: relative;
   font-size: 15px;
